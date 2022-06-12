@@ -1,6 +1,6 @@
 
 
-# Hi! This is Skylar :)
+# Hi! Welcome to my GitHub page!
 
 I am currently a MSc Machine Learning and Autonomous Systems students at the University of Bath 🛁
 
