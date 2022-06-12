@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @sskyau
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-sskyau/sskyau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Hi! This is Skylar :)
+
+I am currently a MSc Machine Learning and Autonomous Systems students at the University of Bath 🛁
+
+<img src='git-cover.png' width='700'>
+
+Visit my [personal site](https://sskyau.github.io/personal-site/) to know more about me! 
